@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[380]:
-
-import streamlit.plotly as st_plotly
 import pandas as pd
 import numpy as np
 import plotly.express as px
